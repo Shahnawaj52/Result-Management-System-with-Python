@@ -235,7 +235,7 @@ class course_class:
 
         except Exception as ex:
             messagebox.showerror("Error", f"Error occurred: {str(ex)}")
-
+########
 
 if __name__ == "__main__":
     r = Tk()
